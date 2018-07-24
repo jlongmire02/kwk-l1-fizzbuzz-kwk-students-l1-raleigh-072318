@@ -5,7 +5,7 @@ def testMethod(number)
     return "Buzz"
   elsif number % 3 == 0 
     return "Fizz"
-    end 
+  end 
 end
 
 fizzbuzz(15)
