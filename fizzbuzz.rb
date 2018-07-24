@@ -1,6 +1,3 @@
-  3 = "fizzbuzz"
-  def "buzz"
-    5 = "buzz"
-    def "fizzbuzz"
-      15 = "fizzbuzz"
-end 
+if number == 3 || 3#{number}
+if number == 5 || 5#{number}
+if number == 15 || 15#{number}
