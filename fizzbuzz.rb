@@ -1,10 +1,10 @@
 def testMethod(number)
-  if number % 3 == 0
-    puts "Fizz"
-    elsif number % 5 == 0 
+  return number % 15 == 0
+    puts "Fizzbuzz"
+    return number % 5 == 0 
     puts "Buzz"
   if number % 3 == 0 
-    puts "Fizz"
+    return "Fizz"
      end 
 end
 fizzbuzz(15)
