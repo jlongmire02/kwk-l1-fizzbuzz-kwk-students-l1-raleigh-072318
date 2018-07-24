@@ -7,4 +7,4 @@ def testMethod(number)
     puts "Fizz"
      end 
 end
-testMethod (15)
+fizzbuzz(15)
