@@ -1,2 +1,2 @@
-define "fizzbuzz" do 
+def "fizzbuzz" do 
   
