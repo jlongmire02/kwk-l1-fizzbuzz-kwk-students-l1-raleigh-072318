@@ -5,6 +5,7 @@ def testMethod(number)
     puts "Buzz"
   if number % 3 == 0 
     puts "Fizz"
+    
   end 
 end
 testMethod (15)
